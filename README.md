@@ -1,6 +1,6 @@
 <h1 align="center"># Auto-number-plate-recognition (Python) </h1>
 
-Required Modules:
+## Required Modules: <br/>
   📌 opencv-contrib-python <br/>
   📌 imutils <br/>
   📌scikit-image <br/>
