@@ -8,7 +8,7 @@
   
 ## How to run--
 
-python ocr_license_plate.py --input license_plates_datasets/group2 --clear-border 1
+python ocr_license_plate.py --input license_plates/group2 --clear-border 1
 
 ## Slides
 https://docs.google.com/presentation/d/1smQ90FE-Ng_-fuIeLRGUx5gLQl-ljEo5RvpGVWoKdC0/edit?usp=sharing
